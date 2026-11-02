@@ -2,6 +2,11 @@
 
 It's a clock that displays pixel art Pokémon that I draw by myself. It will display the date and time and will look like a retro TV.
 
+<img width="501" height="414" alt="Image" src="https://github.com/user-attachments/assets/56d4de36-4f8d-4f9c-88e2-6a3a5b31ec28" />
+
+
+https://cad.onshape.com/documents/1edbe6cea3d4d97c494c6d06/w/6198d2c5c6fae326a4b0eaf0/e/d04b631e08fb4da195f05317?renderMode=0&uiState=6ae82489d579207e292f2464 
+
 ## Features
 
 - Displays current time.
