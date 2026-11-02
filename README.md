@@ -7,6 +7,10 @@ It's a clock that displays pixel art Pokémon that I draw by myself. It will dis
 
 https://cad.onshape.com/documents/1edbe6cea3d4d97c494c6d06/w/6198d2c5c6fae326a4b0eaf0/e/d04b631e08fb4da195f05317?renderMode=0&uiState=6ae82489d579207e292f2464 
 
+
+<img width="224" height="160" alt="Image" src="https://github.com/user-attachments/assets/2478ed2f-6558-4d29-8312-3670b6bb3910" />
+
+
 ## Features
 
 - Displays current time.
